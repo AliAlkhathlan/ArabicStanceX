@@ -31,3 +31,6 @@ ID: Unique identifier of the tweet
 text: The Arabic tweet content
 
 stance: The annotated stance label (favor, against, or none)
+
+Citation
+If you use this dataset in your research, please cite our paper:
