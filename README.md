@@ -34,3 +34,5 @@ stance: The annotated stance label (favor, against, or none)
 
 Citation
 If you use this dataset in your research, please cite our paper:
+
+This dataset is licensed under CC BY 4.0. You are free to share and adapt it with proper attribution.
