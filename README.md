@@ -35,6 +35,6 @@ stance: The annotated stance label (favor, against, or none)
 Citation
 If you use this dataset in your research, please cite our paper:
 
-Alkhathlan, A., Alahmadi, F., Kateb, F., & Al-Khalifa, H. (2025). Constructing and evaluating ArabicStanceX: A social media dataset for Arabic stance detection. Frontiers in Artificial Intelligence, 8, Article 1615800. https://doi.org/10.3389/frai.2025.1615800
+Alkhathlan, A., Alahmadi, F., Kateb, F., & Al-Khalifa, H. (2025). Constructing and evaluating ArabicStanceX: A social media dataset for Arabic stance detection. Frontiers in Artificial Intelligence, 8, Article 1615800. 
 
 This dataset is licensed under CC BY 4.0. You are free to share and adapt it with proper attribution.
